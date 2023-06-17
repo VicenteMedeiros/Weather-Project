@@ -1,0 +1,1 @@
+const weather = document.querySelectorAll('.main-div');
